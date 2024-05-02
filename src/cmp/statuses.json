@@ -1,0 +1,18 @@
+[
+  {
+     "value": "NEW",
+     "label": "New"
+  },
+  {
+     "value": "IN_PROGRESS",
+     "label": "In Progress"
+  },
+  {
+     "value": "RESOLVED",
+     "label": "Resolved"
+  },
+  {
+     "value": "CLOSED",
+     "label": "Closed"
+  }
+]
